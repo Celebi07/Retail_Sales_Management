@@ -1,0 +1,20 @@
+{
+    "name": "truestate-root",
+    "version": "1.0.0",
+    "description": "Retail Sales Management System - Monorepo",
+    "private": true,
+    "scripts": {
+        "install-all": "cd backend && npm install && cd ../frontend && npm install",
+        "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+        "dev:backend": "cd backend && npm start",
+        "dev:frontend": "cd frontend && npm run dev",
+        "build:frontend": "cd frontend && npm run build"
+    },
+    "keywords": [
+        "sales",
+        "management",
+        "retail"
+    ],
+    "author": "",
+    "license": "ISC"
+}
