@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = '/api';
+const API_BASE_URL = 'https://truestate-assignment-backend.onrender.com/api';
 
 /**
  * Fetch sales data with filters, search, sort, and pagination
