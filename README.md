@@ -2,7 +2,9 @@
 
 A web app for managing sales data with search, filters, sorting, and pagination. Built for the TruEstate internship assignment.
 
-**Live Demo:** [Try it here](https://your-app-url.vercel.app) _(update after deployment)_
+**Live Demo (Frontend) :** [Try it here](https://retail-sales-management-frontend.vercel.app/)
+
+**Backend Deployment (Health) :** [Link for Health](https://truestate-assignment-backend.onrender.com/health)
 
 ## What This Does
 
